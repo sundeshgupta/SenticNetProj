@@ -132,7 +132,7 @@ dmypy.json
 .vscode
 
 #For data
-*.csv
+#*.csv
 
 # For logs
 log_tensorboard/
